@@ -21,7 +21,7 @@ function App() {
   );
 */
   const card = (
-      <Typography>Word of the Day</Typography>
+      <Typography>Word of the Day1</Typography>
   );
 
   return (
